@@ -1,2 +1,7 @@
-# ATU-DevOps-Class-Exercise
-Lab/Class exercise
+| Base number | Fibonacci number |
+|-------------|------------------|
+| 17          | 21               |
+| 28          |                  |
+| 50          |                  |
+| 162         |                  |
+| 555         |                  |
